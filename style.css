@@ -3,18 +3,6 @@
 	flex-direction: row;
 	justify-content: flex-end;
 }
-#abt{
-	margin: 0.5em;
-}
-#str{
-	margin: 0.5em;
-}
-#gmail{
-	margin: 0.5em;
-}
-#img{
-	margin: 0.5em;
-}
 #mainlogo{
 	display: block;
 	margin-top: 10em;
@@ -41,4 +29,14 @@
 	margin-left 3em;
 	margin right:2em;
 	margin-bottom: auto;
+}
+#botnav-L {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+#botnav-R {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
 }
